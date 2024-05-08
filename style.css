@@ -1,0 +1,46 @@
+h1{
+    color:black;
+    width: fit-content; 
+    height: fit-content; 
+    margin: auto;
+    margin-block-end: 1%;
+    text-align: center;
+}
+
+h3{
+    color:black;
+    width: fit-content; 
+    height: fit-content;
+    margin: auto; 
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+}
+
+h5{
+    color: black;
+    width: fit-content; 
+    height: fit-content; 
+    margin: auto;
+}
+#num{
+    height: 1px;
+    float: left;
+    text-align: left;}
+#link{
+    height: 1px;
+    text-align: center;}
+#mail{
+    height: 1px;
+    float: right;
+    text-align: right}
+
+html{
+    color: black;
+    width: fit-content; 
+    height: fit-content; 
+    margin: auto; 
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: justify;
+}
