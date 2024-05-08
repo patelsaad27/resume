@@ -1,9 +1,22 @@
+footer{
+    width: fit-content; 
+    height: fit-content; 
+    margin: auto;
+    margin-block-end: 1%;
+    font-size: x-small;
+    font-family: "Jersey 25 Charted",sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+}
+
 h1{
     color:black;
     width: fit-content; 
     height: fit-content; 
     margin: auto;
     margin-block-end: 1%;
+    font-size: xx-large;
     text-align: center;
 }
 
@@ -17,30 +30,62 @@ h3{
     text-align: center;
 }
 
+h4{
+    color:black;
+    width: fit-content; 
+    height: fit-content;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    text-align: justify;
+}
+#year{
+    float:inline-end;
+}
+
 h5{
     color: black;
     width: fit-content; 
-    height: fit-content; 
-    margin: auto;
+    height: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: small;
+    text-align:justify;
 }
 #num{
+    margin: auto;
     height: 1px;
     float: left;
     text-align: left;}
 #link{
+    margin: auto;
     height: 1px;
     text-align: center;}
 #mail{
+    margin: auto;
     height: 1px;
     float: right;
     text-align: right}
 
-html{
+ul{
     color: black;
     width: fit-content; 
-    height: fit-content; 
+    height: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: small;
+    text-align:justify;
+
+}
+
+html{
     margin: auto; 
     margin-top: 1%;
     margin-bottom: 1%;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: aliceblue;
+    width: fit-content; 
+    height: fit-content; 
+    color: black;
     text-align: justify;
 }
