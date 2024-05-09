@@ -88,4 +88,5 @@ html{
     height: fit-content; 
     color: black;
     text-align: justify;
+    background-image: image();
 }
